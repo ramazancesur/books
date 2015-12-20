@@ -19,3 +19,6 @@ Types of constraints
  3. Application-based constraints - not expressed in the schema of the data model
  4. Data dependencies - functional dependencies and multivalued dependencies - goodness of the db design
 
+
+#C15
+Prime attributes - any atribute that is part of a candidate key is refered as prime attribute.
